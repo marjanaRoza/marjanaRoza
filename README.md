@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Marjana Khanam Roza</h1>
+<h1 align="center">👋 Hi, I'm Marjana Roza</h1>
 
 <h3 align="center">SQA Engineer | Manual Testing & API Testing | Jira | Postman & Newman</h3>
 
