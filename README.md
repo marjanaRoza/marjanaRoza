@@ -44,7 +44,8 @@ REST API Testing · CRUD Operations · Request/Response Validation · JavaScript
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [**API_Testing_Project**](https://github.com/marjanaRoza/API_Testing_Project) | Automated REST API test suite for a booking service: 10 requests, 76 assertions, full CRUD + token auth, run via Newman with an HTML report. | Postman, Newman, JavaScript |
+| [**Student_Details_API_Testing_Project**](https://github.com/marjanaRoza/Student_Details_API_Testing_Project) | REST API testing of a student details service using Postman and Newman: CRUD operations, request chaining, dynamic test data, 66 JavaScript assertions, and an HTML report | Postman, Newman, JavaScript, Node.js |
+| [**Booking_Creation_API_Testing_Project**](https://github.com/marjanaRoza/Booking_Creation_API_Testing_Project) | Automated REST API test suite for a booking service: 10 requests, 76 assertions, full CRUD + token auth, run via Newman with an HTML report. | Postman, Newman, JavaScript |
 | [**Bdjobs_Manual_Testing_Project**](https://github.com/marjanaRoza/Bdjobs_Manual_Testing_Project) | Manual testing portfolio for an online job marketplace. | Manual Testing, Jira |
 
 ---
