@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Marjana Roza</h1>
 
-<h3 align="center">SQA Engineer | Manual Testing & API Testing | Jira | Postman & Newman</h3>
+<h3 align="center">SQA Engineer | Manual Testing | API Testing | Performance Testing | Jira | Postman | Newman | Apache JMeter</h3>
 
 <p align="center"><i>Building practical QA skills through hands-on testing projects and real-world web applications.</i></p>
 
